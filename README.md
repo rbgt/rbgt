@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rick 👋</h1>
+<h1 align="center">Hi, I'm Rick</h1>
 
 <p align="center">
   <b>Bayesian Data Scientist · Data & MLOps Engineer</b><br/>
